@@ -3,5 +3,5 @@ How are you
 France
 Paris
 Romania
-Bucharest
+Bucharest,
 Europe
