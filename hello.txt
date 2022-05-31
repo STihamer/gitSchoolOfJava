@@ -4,3 +4,4 @@ France
 Paris
 Romania
 Bucarest
+Europe
